@@ -6,5 +6,4 @@ secondi = int(input('quanti secondi devo convertire? : '))
 
 risultato = ore*60*60 + minuti*60 + secondi
 
-
-
+print("L'orario inserito e convertito in secondi equivale a: ", risultato)
